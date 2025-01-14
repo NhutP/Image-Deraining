@@ -1,0 +1,9 @@
+*.pyc
+*.png
+*.tif
+*.jpg
+*.pth
+*.mat
+*.npy
+*.pxd
+*.out
